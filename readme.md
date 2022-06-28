@@ -14,4 +14,4 @@ Na IDE do Arduino, ir na aba Sketch > Exportar binário compilado (Ctrl + Alt + 
 
 ## Funcionamento
 
-![FuncionamentoPID](/assets/FuncionamentoPID.png)
+![FuncionamentoPID](https://github.com/LeonardoCechellaVelho/controladorPID/blob/master/assets/img/FuncionamentoPID.png?raw=true)
